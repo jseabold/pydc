@@ -10,6 +10,10 @@ Run this from the Notebook or in (I)Python from this directory or after fixing t
 
     from IPython.external.mathjax import install_mathjax
     install_mathjax(file="./MathJax-2.2.tar.gz")
+or
+
+    intall_mathjax()
+if you are online.
 
 And
 
