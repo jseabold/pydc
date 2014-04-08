@@ -9,7 +9,7 @@ You'll need to make sure that the first two code cells in the Notebook run for y
 Run this from the Notebook or in (I)Python from this directory or after fixing the paths below. 
 
     from IPython.external.mathjax import install_mathjax
-    install_mathjax("./MathJax-2.2.tar.gz")
+    install_mathjax(file="./MathJax-2.2.tar.gz")
 
 And
 
