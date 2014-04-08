@@ -33,3 +33,4 @@ Necessary Statsmodels Dependencies:
 * [Pandas](http://pandas.pydata.org)
 * [Patsy](http://patsy.readthedocs.org/en/latest/)
 * [Matplotlib](http://matplotlib.org)
+* [Cython](http://cython.org), if you plan to build from source
